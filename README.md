@@ -1,6 +1,6 @@
 # rGST-Paris repository
 
-This repository provides the necessary data and scripts to reproduce the data and figures of the paper _A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals_, including the ClimTrace global surface temperature record, diagnostic metrics and figures included in the paper.
+This repository provides the necessary data and scripts to reproduce the data and figures of the paper _A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals_, including the ClimTrace global surface temperature change record, diagnostic metrics and figures included in the paper.
 
 ## Installation
 
