@@ -1,0 +1,12 @@
+ENSO (HadISST and ERSST)
+------------------------
+https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni
+
+VOLC
+----
+adapted from Smith (see https://github.com/chrisroadmap/ar6/blob/main/notebooks/040_chapter2_volcanic_erf.ipynb);
+exchanged GloSSACv2.0 with GloSSACv2.2, otherwise identical.
+
+NAO
+---
+https://www.ncei.noaa.gov/access/monitoring/nao/

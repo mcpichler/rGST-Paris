@@ -1,0 +1,21 @@
+
+        T-TEST SUMMARY
+        --------------
+
+        regressors: ['nino34_ERSST', 'volc']
+
+        value 1: 0.0178 ± 0.0026
+        value 2: 0.0236 ± 0.0025
+
+        degrees of freedom: 40
+        significance level: 0.05
+
+        difference: 0.0059
+        pooled standard error: 0.0036
+        t-statistic: 1.6245
+        critical t: 1.6839
+        p-value: 0.0561
+
+        CONCLUSION:
+        The values are not significantly different.
+        

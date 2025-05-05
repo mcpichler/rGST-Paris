@@ -1,0 +1,7 @@
+ERA5:
+-----
+https://climate.copernicus.eu/global-climate-highlights-2023
+
+JRA-3Q:
+-------
+https://rda.ucar.edu/datasets/d640002/dataaccess/

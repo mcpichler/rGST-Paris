@@ -1,0 +1,21 @@
+
+        T-TEST SUMMARY
+        --------------
+
+        regressors: None
+
+        value 1: 0.0188 ± 0.0045
+        value 2: 0.0250 ± 0.0040
+
+        degrees of freedom: 40
+        significance level: 0.05
+
+        difference: 0.0062
+        pooled standard error: 0.0060
+        t-statistic: 1.0312
+        critical t: 1.6839
+        p-value: 0.1543
+
+        CONCLUSION:
+        The values are not significantly different.
+        

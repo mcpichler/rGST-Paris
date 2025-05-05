@@ -1,0 +1,15 @@
+Global Carbon Budget:
+---------------------
+https://globalcarbonbudgetdata.org/
+
+EDGAR:
+------
+https://edgar.jrc.ec.europa.eu/report_2024#data_download
+
+UN Emissions Gap Report 2024:
+-----------------------------
+https://www.unep.org/resources/emissions-gap-report-2024
+
+RCMIP:
+------
+https://www.rcmip.org/
