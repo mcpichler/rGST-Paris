@@ -1,4 +1,5 @@
 # rGST-Paris repository
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15343672.svg)](https://doi.org/10.5281/zenodo.15343672)
 
 This repository provides the necessary data and scripts to reproduce the data and figures of the paper _A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals_, including the ClimTrace global surface temperature change record, diagnostic metrics and figures included in the paper.
 
