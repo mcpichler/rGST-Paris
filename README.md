@@ -32,7 +32,7 @@ Moritz Pichler: moritz.pichler@uni-graz.at\
 Gottfried Kirchengast: gottfried.kirchengast@uni-graz.at
 
 ## Suggested Citations
-**This repository:** Pichler, M. and G. Kirchengast, 2025. Data and Code for _A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals_. Version 1.0. Zenodo. [https://doi.org/10.5281/zenodo.15343672](https://doi.org/10.5281/zenodo.15343672)
+**This repository:** Pichler, M. and G. Kirchengast, 2025. Data and Code for _A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals_. Version 1.0. Zenodo. Accessible via [https://doi.org/10.5281/zenodo.15343672](https://doi.org/10.5281/zenodo.15343672)
 
 **A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals:** Kirchengast, G. and M. Pichler, 2025. A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals. _Commun. Earth Environ._ Vol. 6 (2025).
 
