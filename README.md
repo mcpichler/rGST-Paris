@@ -35,7 +35,7 @@ Gottfried Kirchengast: gottfried.kirchengast@uni-graz.at
 ## Suggested Citations
 **This repository:** Pichler, M. and Kirchengast, G. 2025. Data and Code for _A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals_. Version 1.0. Zenodo. Accessible via [https://doi.org/10.5281/zenodo.15343672](https://doi.org/10.5281/zenodo.15343672)
 
-**A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals:** Kirchengast, G. and Pichler, M. 2025. A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals. _Commun. Earth Environ._ Vol. 6, 402 (2025). [https://doi.org/10.1038/s43247-025-02368-0](https://doi.org/10.1038/s43247-025-02368-0)
+**A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals:** Kirchengast, G. and Pichler, M. 2025. A tracable global warming record and clarity for the 1.5°C and well-below-2°C goals. _Commun. Earth Environ._ **6**, 402 (2025). [https://doi.org/10.1038/s43247-025-02368-0](https://doi.org/10.1038/s43247-025-02368-0)
 
 ## Playlist
 I'm a great fan of Chris Smith's idea of including a playlist featuring a theme song for each script in a repository, as he has done [in the ar6-wg1-ch7 repository](https://github.com/chrisroadmap/ar6/?tab=readme-ov-file#playlist).
